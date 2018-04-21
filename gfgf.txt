@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/yinpin.css" type="text/css"rel="stylesheet ">
+</head>
+<body>
+<audio controls="controls">
+    <!--
+    <source src="yinyue.ogg"type="audio/ogg">-->
+    <source src="yinyue.mp3"type="audio/mpeg">
+</audio><br>
+<video width="320"height="240"controls="controls">
+    <source src="R11.mp4.ogg" type="video/ogg">
+    <source src="R11.mp4.mov"type="video/mp4">
+</video>
+<!--<button id="button">²¥·Å</button>-->
+
+
+</body>
+</html>
