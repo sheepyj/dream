@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>我的订单</title>
+    <link href="dc1.css" rel="stylesheet"type="text/css">
+    <link href="dc2.css" rel="stylesheet"type="text/css">
+
+</head>
+
+<body>
+<section class="qui-page">
+    <header class="qui-header">
+        <h4>我的订单</h4>
+    </header>
+    <h2>已付款</h2>
+    <div align="left"hspace="20"style="positio:absolute;top:65px;left: 550px">查看全部</div>
+    <section class="container"></section>
+    <div class="plcRouteList">
+
+        <a href="#"><img src="菜.jpg" width="100%"height="100%"alt=""class="pic">
+
+            <div class="bottom">
+                <p class="face"><img src="菜.jpg "width="38"height="38"alt=""/></p>
+                <h2 class="title">台湾烤肉饭</h2>
+            </div>
+
+            <div class="desc">
+                <div class="detail"><i>$36.00</i>[月售120份]
+                    <a href="#"><img border="0"title="联系卖家" alt="联系卖家"src="/qq.gif"></a>
+                </div>
+            </div>
+
+            </a>
+    </div>
+</section>
+</br>
+<div class="p">下单时间:2018-05-03 11:47</br></br>
+    总价：$11.00</br></br>
+    地址：湖南科技大学北门外200米台湾烤肉饭店。
+</div>
+<div class="submit" align="right">
+    <input type="submit" value="再来一单">
+    <input type="submit"value="去评价">
+</div>
+
+<hr width="100%"size="6">
+
+<section class="container">
+    <div class="plcRouteList ">
+        <a href="#"><img src="菜2.jpg "width="100%" alt=""class="pic">
+            <div class="bottom">
+                <p class="face"><img src="菜2.jpg "width="38"height="38"alt=""/></p>
+                <h2 class="title">王味螺蛳粉</h2>
+            </div>
+            <div class="desc">
+                <div class="detail"><i>$36.00</i>[月售120份]
+                    <a href="#"><img border="0"title="联系卖家" alt="联系卖家"src="/qq.gif"></a>
+                </div>
+            </div>
+
+        </a>
+    </div>
+</section>
+</br>
+<div class="p">下单时间:2018-05-03 11:47</br></br>
+    总价：$11.00</br></br>
+地址：湖南科技大学北门外广州荷香饭店</div>
+<div class="submit" align="right">
+    <input type="submit" value="再来一单">
+    <input type="submit"value="去评价">
+</div>
+<hr width="100%"size="6">
+
+
+<h2>最近浏览</h2>
+<div align="left"hspace="20"style="positio:absolute;top:65px;left: 550px">查看全部</div>
+<div class="item">
+    <div class="pic">
+        <img src="菜3.jpg "width="100%" height="100%"alt="">
+    </div>
+</div>
+<div class="b">香辣炸鸡</div>
+<div class="p">
+    总价：$11.00</br></br>
+    地址：湖南科技大学北门外200米台湾烤肉饭店。
+</div>
+<div class="submit" align="right">
+    <input type="submit" value="点单">
+</div>
+<hr width="100%"size="1">
+
+<div class="item">
+    <div class="pic">
+        <img src="菜4.jpg "width="100%" height="100%"alt="">
+    </div>
+</div>
+<div class="b">板栗鸡</div>
+<div class="p">
+    总价：$11.00</br></br>
+    地址：湖南科技大学北门外200米台湾烤肉饭店。
+</div>
+<div class="submit" align="right">
+    <input type="submit" value="点单">
+</div>
+<hr width="100%"size="1">
+
+<div class="item">
+    <div class="pic">
+        <img src="菜5.jpg "width="100%" height="100%"alt="">
+    </div>
+</div>
+<div class="b">香辣口味虾</div>
+<div class="p">
+    总价：$11.00</br></br>
+    地址：湖南科技大学北门外200米台湾烤肉饭店。
+</div>
+<div class="submit" align="right">
+    <input type="submit" value="点单">
+</div>
+<hr width="100%"size="1">
+
+<div class="item">
+    <div class="pic">
+        <img src="菜6.jpg "width="100%" height="100%"alt="">
+    </div>
+</div>
+<div class="b">西兰花炒肉</div>
+<div class="p">
+    总价：$11.00</br></br>
+    地址：湖南科技大学北门外200米台湾烤肉饭店。
+</div>
+<div class="submit" align="right">
+    <input type="submit" value="点单">
+</div>
+<hr width="100%"size="1">
+<aside class="qui-asides ">
+    <section class="qui-aside ">
+        <nav class="qui-asideNav">
+            <ul>
+                <li><a href="#"><span>待付款</span></a></li>
+                <li><a href="#"><span>已付款</span></a></li>
+                <li><a href="#"><span>已送达</span></a></li>
+                <li><a href="#"><span>我的券</span></a></li>
+                <li><a href="#"><span>待评价</span></a></li>
+                <li><a href="#"><span>退款/售后</span></a></li>
+                <li><a href="#"><span>近期订单</span></a></li>
+                <li><a href="#"><span>多次加购订单</span></a></li>
+            </ul>
+        </nav>
+    </section>
+</aside>
+
+</body>
+</html>
